@@ -7,4 +7,8 @@
 - Most common problem: Did not set security group. 
 - Solution: Set "Security group rules" to include inbound rule "Inbound rules" of type "PostgreSQL". 
 
-2. 
+2. Database parameter for PostgreSQL
+
+- Both "user" and "database" are "postgres"
+
+
